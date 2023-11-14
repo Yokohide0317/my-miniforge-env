@@ -1,0 +1,10 @@
+name: LazyB
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.8
+  - abyss
+  - jellyfish
+  - minimap2
+  - bbmap
